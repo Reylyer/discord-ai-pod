@@ -1,0 +1,2 @@
+TOKEN = "paste your bot token here"
+PREFIX = "your prefix here, dont forget whitespace if needed"
